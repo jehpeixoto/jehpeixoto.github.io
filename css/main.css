@@ -147,7 +147,7 @@ span {
   align-items: center;
   justify-content: space-between;
   flex-direction: row;
-  background: rgba(105, 105, 105, 1);
+  background: #bcd2d6c7;
   /*background-color: #4516d8;*/
 }
 
@@ -274,8 +274,8 @@ span {
 }
 
 .menu-top .home .img {
-  width: 175px;
-  height: 175px;
+  width: 155px;
+  height: 155px;
   border: 1px solid #fff;
   border-radius: 50%;
 }
