@@ -266,7 +266,7 @@ span {
 }
 
 .fotoLogo {
-  width: 115px;
+  width: 120px;
   height: 85;
   border-radius: 10px;
   background-color: #fff;
@@ -274,16 +274,16 @@ span {
 }
 
 .menu-top .home .img {
-  width: 200px;
-  height: 200px;
+  width: 175px;
+  height: 175px;
   border: 1px solid #fff;
   border-radius: 50%;
 }
 
 @media (min-width: 1024px) {
   .menu-top .home .img {
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
   }
 }
 
