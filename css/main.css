@@ -266,7 +266,7 @@ span {
 }
 
 .fotoLogo {
-  width: 250px;
+  width: 115px;
   height: 85;
   border-radius: 10px;
   background-color: #fff;
@@ -282,8 +282,8 @@ span {
 
 @media (min-width: 1024px) {
   .menu-top .home .img {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
   }
 }
 
